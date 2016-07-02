@@ -1,4 +1,4 @@
-# 2016 Lessons
+# Lessons
 
 ### 1. A review of functions & arrays
 

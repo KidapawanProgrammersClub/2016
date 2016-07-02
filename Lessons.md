@@ -13,4 +13,4 @@
 
 > "A function is just a group of code that’s been given a name. By grouping a block of code together and naming it, we can re-use it later and throughout the application without having to rewrite the whole code block again."
 
-**_We can still use these concepts even if we do not have a plan of using C++ in the future._**
+**_We can still use these concepts even if we use another programming language in the future._**

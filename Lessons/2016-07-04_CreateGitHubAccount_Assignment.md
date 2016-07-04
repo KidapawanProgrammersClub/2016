@@ -1,7 +1,5 @@
 #Create GitHub account
 
-**(Please basaha sa _tanan_ nga words sa kani nga post para naa kay overview kung unsa ang _tanan_ nimo himuon. After that, basaha usab from the beginning and then do as instructed. Thanks)**
-
 Sa mga members na sa club, kung naa moy time please create ug account sa GitHub (https://github.com).
 
 Dira ninyo ibutang inyong mga code kung sakaling naa tay ipang-code sa sunod.

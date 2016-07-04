@@ -1,5 +1,7 @@
 # Possible Answers to the club's 2016 test
 
+**Problems - see file "Problems for recruits (May to July 2016).pdf"
+
 **1. FizzBuzz**
  - see file "1-FizzBuzz.cpp"
 

@@ -5,6 +5,7 @@
 * UVA Online Judge - https://uva.onlinejudge.org/
 * uHunt (a tool for UVa Online Judge) - http://uhunt.felix-halim.net/
 * Visualizing Algorithms - http://visualgo.net/
+* Big-O notation explained by a self-taught programmer - https://justin.abrah.ms/computer-science/big-o-notation-explained.html
 
 # for Software Development/Design
 * Java and C# Comparison - http://www.harding.edu/fmccown/java_csharp_comparison.html

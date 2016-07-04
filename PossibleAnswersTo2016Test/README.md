@@ -16,10 +16,10 @@
  - see file "5-AreaOfRectangle.cpp"
  
 **6. IsSorted function**
- - see file "5-IsSortedFunction.cpp"
+ - see file "6-IsSortedFunction.cpp"
  
 **7. Fun with Sequences**
- - see file "5-FunWithSequences.cpp"
+ - see file "7-FunWithSequences.cpp"
  
 **8. Sieve of Eratosthenes**
- - see file "5-SieveOfEratosthenes.cpp"
+ - see file "8-SieveOfEratosthenes.cpp"

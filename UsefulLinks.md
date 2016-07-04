@@ -13,7 +13,8 @@
 * Java and C# Comparison - http://www.harding.edu/fmccown/java_csharp_comparison.html
 * VB.NET and C# Comparison - http://www.harding.edu/fmccown/vbnet_csharp_comparison.html
 * C# Tutorial - https://www.microsoft.com/net/tutorials/csharp/getting-started
-* a website that contains many Principles, Patterns, and Practices in software development - http://deviq.com/
+* A website that contains many Principles, Patterns, and Practices in software development - http://deviq.com/
+* Another website that explains design principles and patterns - http://www.oodesign.com/
 * Robert Martin's blog - http://blog.cleancoder.com/
 * Mark Seeman's blog - http://blog.ploeh.dk/
 * Martin Fowler's website - http://martinfowler.com/intro.html

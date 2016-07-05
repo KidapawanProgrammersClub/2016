@@ -10,6 +10,7 @@
 * Big-O notation explained by a self-taught programmer - https://justin.abrah.ms/computer-science/big-o-notation-explained.html
 
 ## for Software Development/Design
+* Introduction to OOP - http://java.about.com/od/objectorientedprogramming/a/introobjects.htm
 * Java and C# Comparison - http://www.harding.edu/fmccown/java_csharp_comparison.html
 * VB.NET and C# Comparison - http://www.harding.edu/fmccown/vbnet_csharp_comparison.html
 * C# Tutorial - https://www.microsoft.com/net/tutorials/csharp/getting-started

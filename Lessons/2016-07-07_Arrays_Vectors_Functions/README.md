@@ -1,6 +1,6 @@
-### July 7, 2016 Discussion (summary, corrections)
+# July 7, 2016 Discussion (summary, corrections)
 
-**1. We can use vectors in C++ instead of arrays -- vectors keep track of the current size of the list. (Please see samples within this folder)**
+###1. We can use vectors in C++ instead of arrays -- vectors keep track of the current size of the list. (Please see samples within this folder)
 
 ...pero naa koy mali nga nasulti during our discussion.
 I said that we can write this code below with vectors (storing the first 10 positive integers into the vector):
@@ -47,4 +47,4 @@ vectorOfNumbers[123] = 111; // at this point, the vector's size is 150 so we can
 ```
    
 
-**2. Functions - (Please see samples within this folder)**
+###2. Functions. (Please see samples within this folder)

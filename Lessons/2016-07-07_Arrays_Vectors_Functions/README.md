@@ -3,7 +3,7 @@
 ###1. We can use vectors in C++ instead of arrays -- vectors keep track of the current size of the list. (Please see samples within this folder)
 
 ...pero naa koy mali nga nasulti during our discussion.
-I said that we can write this code below with vectors (storing the first 10 positive integers into the vector):
+I said that we can write this code below with vectors (storing the first 10 positive integers in the vector):
 
 ```C++
 vector<int> vec;

@@ -19,7 +19,7 @@ int main()
 	int powIntResult = powerFunctionForInts(2, 3);
 	cout << powIntResult << endl;
 
-	// using the pow() function the form standard library math.h
+	// using the pow() function from the standard library math.h
 	double resultOfPowFromStdMathLib = pow(2, 3);
 	cout << resultOfPowFromStdMathLib << endl;
 

@@ -23,6 +23,5 @@ int main()
 	double resultOfPowFromStdMathLib = pow(2, 3);
 	cout << resultOfPowFromStdMathLib << endl;
 
-	cin.get();
 	return 0;
 }

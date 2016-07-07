@@ -27,8 +27,9 @@ for(int i = 0; i <= 10; i++)
 }
 ```
 ________________
-Below is another explanation on why the code above will cause the program to crash:
-We cannot do something like this with a vector:
+Below is another explanation on why the code above will cause the program to crash.
+
+**We cannot do something like this with a vector:**
 
 ```C++
 vector<int> vec;
@@ -38,7 +39,7 @@ vec[123] = 111; // at this point, the vector's size is zero so accessing vec[123
 
 According to [cplusplus.com](http://www.cplusplus.com/reference/vector/vector/operator[]/) the behavior of the code above is undefined (in my case, the program crashes)
 
-But we can give the vector an initial size or 150. If we do this then we can now access vec[123]:
+**But we can give the vector an initial size or 150. If we do this then we can now access vec[123]:**
 
 ```C++
 const int INITIAL_SIZE = 150;

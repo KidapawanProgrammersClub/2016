@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int computeAverage(vector<int> vecOfNumbers)
+double computeAverage(vector<double> vecOfNumbers)
 {
    double sum = 0;
    for(int i = 0; i < vecOfNumbers.size(); i++)
@@ -12,12 +12,12 @@ int computeAverage(vector<int> vecOfNumbers)
    }
    double average = sum / vecOfNumbers.size();
 
-   return   average;
+   return average;
 }
 
 int main()
 {
-   vector<int> vectorOfNumbers;
+   vector<double> vectorOfNumbers;
 
    cout << "Please enter your positive numbers and I will compute their average value.\n";
    cout << "I will stop reading your input if I see the number zero\n";

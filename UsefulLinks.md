@@ -19,3 +19,6 @@
 * Robert Martin's blog - http://blog.cleancoder.com/
 * Mark Seeman's blog - http://blog.ploeh.dk/
 * Martin Fowler's website - http://martinfowler.com/intro.html
+
+* Git interactive tutorial - https://try.github.io/levels/1/challenges/1
+* Git simple guide - http://rogerdudler.github.io/git-guide/

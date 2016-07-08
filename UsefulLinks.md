@@ -30,8 +30,8 @@
 * [A website that contains many Principles, Patterns, and Practices in software development](http://deviq.com/)
 * [Another website that explains design principles and patterns](http://www.oodesign.com/)
 
-### Git ([a Version Control System (VCS)](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)) ([Video - What is VCS?](https://www.youtube.com/watch?v=8oRjP8yj2Wo))
-* [Video - What is Git?](https://www.youtube.com/watch?v=uhtzxPU7Bz0)
+### Git ([a Version Control System (VCS)](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)) (also [What is VCS?](https://www.youtube.com/watch?v=8oRjP8yj2Wo) video)
+* [Getting Started - Git Basics](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics) (also [What is Git?](https://www.youtube.com/watch?v=uhtzxPU7Bz0) video)
 * [Git interactive tutorial](https://try.github.io/levels/1/challenges/1)
 * [Git simple guide](http://rogerdudler.github.io/git-guide/) (also a PDF file you can use offline - [Git reference sheet from GitHub](https://services.github.com/resources/))
 

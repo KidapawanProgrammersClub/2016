@@ -16,6 +16,7 @@
 * [C# Tutorial](https://www.microsoft.com/net/tutorials/csharp/getting-started)
 * [Git interactive tutorial](https://try.github.io/levels/1/challenges/1)
 * [Git simple guide](http://rogerdudler.github.io/git-guide/)
+* [Git reference sheet from GitHub](https://services.github.com/resources/)
 * [A website that contains many Principles, Patterns, and Practices in software development](http://deviq.com/)
 * [Another website that explains design principles and patterns](http://www.oodesign.com/)
 * [Robert Martin's blog](http://blog.cleancoder.com/)

@@ -8,7 +8,7 @@ int main()
     freopen("test.out", "w", stdout);    
     //freopen("test.err", "w", stderr);
 
-    int num1, num2;
+    int num1, num2, counter = 1;
     while(true)
     {
         cin >> num1 >> num2;
@@ -18,7 +18,8 @@ int main()
         }
 
         int area = num1 * num2;
-        cout << area << endl;
+        cout << "#" << counter << ": " << area << endl;
+        ++counter;
     }
 
     return 0;

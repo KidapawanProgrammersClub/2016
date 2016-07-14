@@ -14,15 +14,19 @@ Magdala lang kog computer next meeting para makita jud nato nga ka-run ang atong
 
 ### 3. Then after that (maybe sa next next meeting pa) mag-adto sa siguro ta sa "Software Development" part sa atong discussions. Try ta'g himo ug simple programs using C# para ma-familiar ta gamay kung paano siya ga-work.
 
-**Basig mangutana mo kung nganong dili C++ na lang atong gamiton sa "Software Development" discussions -- ang answer ana is _"mas sayon gamiton ang Java or C# kung mga big software projects"_.** Please refer to this article written by John Sonmez: https://simpleprogrammer.com/2012/12/01/why-c-is-not-back/
+------------------
 
-(Mao pud ni si John Sonmez tung akong gi-ingon nga naga-encourage nga mag-solve tag programming problems -- Murag preparation para sa interview kung mag-apply mog trabaho sa sunod.
+
+
+### Basig mangutana mo kung nganong dili C++ na lang atong gamiton sa "Software Development" discussions -- ang answer ana is _"mas sayon gamiton ang Java or C# kung mga big software projects"_. Please refer to this article written by John Sonmez: https://simpleprogrammer.com/2012/12/01/why-c-is-not-back/
+
+
+Mao pud ni si John Sonmez tung akong gi-ingon nga naga-encourage nga mag-solve tag programming problems -- murag preparation para sa interview kung mag-apply mog trabaho sa sunod.
  - https://simpleprogrammer.com/2010/12/22/solving-problems-you-better-learn-how/
        <blockquote>
-You might not get asked to solve a problem or write code in your next interview, but there is a growing chance that you will.
+"You might not get asked to solve a problem or write code in your next interview, but <strong>there is a growing chance that you will.</strong>"
 </blockquote>
  - https://simpleprogrammer.com/2011/01/08/solving-problems-breaking-it-down/
  
-)
 
 .

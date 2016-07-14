@@ -9,7 +9,7 @@
  - kabalo na ka unsay answer
 
 **3. Primary Arithmetic**
- - see folder "3-PrimaryArithmetic.cpp
+ - see folder "3-PrimaryArithmetic"
 
 **4. Hashmat the Brave Warrior**
  - kabalo na pud ka unsay answer
@@ -19,10 +19,7 @@
 
  
 **6. IsSorted function**
- - see file "6-IsSortedFunction.cpp"
  
 **7. Fun with Sequences**
- - see file "7-FunWithSequences.cpp"
  
 **8. Sieve of Eratosthenes**
- - see file "8-SieveOfEratosthenes.cpp"

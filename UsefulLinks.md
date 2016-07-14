@@ -28,6 +28,9 @@
 * [Java and C# Comparison](http://www.harding.edu/fmccown/java_csharp_comparison.html)
 * [VB.NET and C# Comparison](http://www.harding.edu/fmccown/vbnet_csharp_comparison.html)
 * [C# Tutorial](https://www.microsoft.com/net/tutorials/csharp/getting-started)
+* Links sa reference sheets nga [i][gi]hatag sa inyo
+ - [C# Language Basics](http://www.digilife.be/quickreferences/qrc/core%20csharp%20and%20.net%20quick%20reference.pdf)
+ - [Core C# and .NET Quick Reference](http://www.kula.bel.tr/images/kataloglar/67ec8test.pdf)
 
 ### OOP
 * [Introduction to OOP](http://java.about.com/od/objectorientedprogramming/a/introobjects.htm)

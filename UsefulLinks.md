@@ -2,13 +2,16 @@
 
 ## for Competitive Programming
 
-### C++
+### C++ Tutorials
 * [C++ Tutorial](http://www.tutorialspoint.com/cplusplus/index.htm)
 * [C++ STL Tutorial](http://www.tutorialspoint.com/cplusplus/cpp_stl_tutorial.htm)
-* [C++ Reference page](https://cs.fit.edu/~mmahoney/cse2050/how2cpp.html)
 * [Course Reader of CS106L](http://web.stanford.edu/class/cs106l/course_reader.html)
  - This is a more structured tutorial for learning more advanced C++ (which includes STL) than the tutorial listed above from tutorialspoint.com 
  - Start with **_"Part 1: A Better C"_**. The _"Part 0: Introduction"_ is not relevant to the discussions in our club.
+
+### C++ References
+* [C++ Reference](http://en.cppreference.com/w/)
+* [C++ Language Summary](https://cs.fit.edu/~mmahoney/cse2050/how2cpp.html)
 
 ### Online Judges
 * [UVA Online Judge](https://uva.onlinejudge.org/)

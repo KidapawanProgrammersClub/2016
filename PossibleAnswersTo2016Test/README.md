@@ -3,19 +3,20 @@
 **_Problems - see file "Problems for recruits (May to July 2016).pdf"_**
 
 **1. FizzBuzz**
- - see file "1-FizzBuzz.cpp"
+ - http://c2.com/cgi/wiki?FizzBuzzTest
 
 **2. Squares**
- - see file "1-Squares.cpp"
+ - kabalo na ka unsay answer
 
 **3. Primary Arithmetic**
- - see file "3-PrimaryArithmetic.cpp
+ - see folder "3-PrimaryArithmetic.cpp
 
 **4. Hashmat the Brave Warrior**
- - see file "4-HashmatTheBraveWarrior.cpp"
+ - kabalo na pud ka unsay answer
  
 **5. Area of Rectangle**
- - see file "5-AreaOfRectangle.cpp"
+ - https://github.com/KidapawanProgrammersClub/KidProgClubFiles2016/blob/master/Lessons/02-ADT_FileIO/AreaProblem_DemostratingInputFromFile/AreaOfRectangle.cpp
+
  
 **6. IsSorted function**
  - see file "6-IsSortedFunction.cpp"

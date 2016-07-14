@@ -3,8 +3,8 @@
 ### 1. Next meeting mag-lesson ta about passing arguments to functions "by value" and "by reference".
 
 Kung naa moy time pwede mo mag-basa ani:
-Passing by value: http://bit.ly/29BdXxA
-Passing by reference: http://bit.ly/2acWJIo
+* Passing by value: http://bit.ly/29BdXxA
+* Passing by reference: http://bit.ly/2acWJIo
 
 Kaning idea sa "passing arguments by value or by reference" kay magamit gihapon ni kung mag-tuon mog ibang languages, for example, Java, VB.NET or C#. So dili makalas inyong time kung mag-study mo ani.
 

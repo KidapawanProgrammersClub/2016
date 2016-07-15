@@ -40,21 +40,21 @@ Almost all agile developers have a background in Java, C++, or Smalltalk. But ag
 
 Makita ninyo ang uban nga functions sa vector from these links: http://bit.ly/29KEzAn and/or http://bit.ly/29ye41k
 
-Dili ninyo na sila kailangan memorizon. Just remember kung unsa ang gamit sa vector -- a container of things -- and then kung maka-encounter mo'g problem on how to manipulate data inside the container you can just consult the documentation.
+Dili ninyo na sila kailangan memorizon. Just remember kung unsa ang gamit sa vector -- a storage of list of things -- and then kung maka-encounter mo'g problem on how to manipulate data inside the list you can just consult the documentation.
 
 For example:
 
-Gusto ko mag-add sa container -> use .push_back() function
+Gusto ko mag-add sa list -> use .push_back() function
 
-Gusto nako i-delete ang naa sa tumoy sa container -> use .pop_back()
+Gusto nako i-delete ang naa sa tumoy sa list -> use .pop_back()
 
-Naa pa bay sulod ang container?
+Is there anything contained in the list?
 
 0. Wala ko kabalo kung paano mahibal-an.
 1. Look at reference (http://bit.ly/29KEzAn)
 2. ahh!! Use .empty()
 
-Paano kung gusto ko mag-insert at the middle of the container?
+Paano kung gusto ko mag-insert at the middle of the list?
 
 0. Wala ko kabalo kung paano.
 1. Look at reference (http://bit.ly/29KEzAn)

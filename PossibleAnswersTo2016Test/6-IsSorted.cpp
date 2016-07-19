@@ -27,7 +27,7 @@ int main()
 	cout << "Is first array sorted? -> " << IsSorted(sortedArray, SIZE) << endl;
 	cout << "Is second array sorted? -> " << IsSorted(notSortedArray, SIZE) << endl;
 	cout << noboolalpha;	
-	// "boolalpha" and "noboolalpha" are a format manipulators
+	// "boolalpha" and "noboolalpha" are format manipulators
 	// By default, cout will display "1" for the boolean value 'true'
 	//		and it will display "0" for the boolean value 'false'
 	// We can use "boolalpha" if we want to display "true"/"false" instead of "1"/"0"

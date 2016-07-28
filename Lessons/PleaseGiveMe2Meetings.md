@@ -10,7 +10,7 @@ Diretso na lang ta sa "software development" part kay mao man ning pinaka-focus 
 
 ### Please hatagi lang ko ninyo'g 2 meetings para hatagan mog gamay nga idea about aning:
 1. **_Unit testing_** (and probably an idea about Test Driven Development (TDD) or Test first development)
-2. **_Three layer architecture_** (and probably hexagonal architecture)
+2. **_Layered architecture_**
 
 Kani nga mga topics kay naay "big part" sa kaning gina-ingon nila nga **_Clean coding and clean architecture_**.
 

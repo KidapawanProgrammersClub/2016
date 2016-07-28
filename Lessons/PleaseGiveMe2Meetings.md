@@ -22,7 +22,7 @@ Then after ani nga meetings pwede nga kamo na lang ang mag-go deeper sa mga topi
 
 And kung gusto pa mo mag-meet para mag-solve ug algorithmic problems after aning 2 meetings, ok ra gihapon sa ako.
 
-Or kung gusto ninyo discussan nato kung paano nato ma-convince ang uban nga muapil sa club, then discussan nato after these two meetings.
+Pwede pud nato discussan kung paano nato i-convince ang uban nga muapil sa club after aning 2 meetings. Pwede na siguro ta mang-recruit ug first year next semester kay naa na man na silay idea about programming.
 
 Thanks.
 

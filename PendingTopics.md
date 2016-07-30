@@ -11,3 +11,4 @@
  - http://blog.ploeh.dk/2013/12/03/layers-onions-ports-adapters-its-all-the-same/
  - http://fideloper.com/hexagonal-architecture
  - http://alistair.cockburn.us/Hexagonal+architecture
+ - STEP BY STEP IMPLEMENTING ONION ARCHITECTURE IN ASP.NET MVC APPLICATION: https://debugmode.net/2015/04/17/step-by-step-implementing-onion-architecture-in-asp-net-mvc-application/
